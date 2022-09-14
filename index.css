@@ -1,0 +1,69 @@
+h1 {
+    color:rgb(255, 200, 0);
+    border:solid 10px;
+    text-align:center;
+    font-size: 150px;
+    font-family: helvetica;
+    margin: 0px;
+}
+body{
+    margin:0px;
+    background-color: black;
+    color: rgb(255, 200, 0);
+    font-family:Helvetica;
+
+}
+#tokyo {
+margin-left: 35%;
+}
+h2{
+    text-align: center;
+}
+
+.drift{
+    display:inline;
+    Width:35%;
+    margin-left: 10%;
+
+
+}
+
+.z{
+    width:60%;
+    height:30%;
+    display: inline;
+    margin-left:20%;
+    margin-top: 10%;
+}
+.intro {
+    font-size: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: justify;
+}
+
+
+
+.email{
+    background-color: rgb(255, 0, 0);
+    font-size: 40px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 5%;
+    transition-duration: 1s;
+}
+.email:hover{
+    background: rgb(255, 0, 0);
+    color:blue;
+    border-radius: 50%;
+
+}
+.email:active{
+    color:brown;
+    font-size: 80px;
+}
